@@ -10,7 +10,7 @@ $FirefoxPolicies = @{
     DisableAppUpdate        = $true
     BackgroundAppUpdate     = $false
     Homepage                = @{
-        URL    = "https://intranet.bedrijf.nl"
+        URL    = "https://justinverstijnen.nl"
         Locked = $true
     }
     DisplayBookmarksToolbar = $true
